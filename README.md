@@ -18,11 +18,11 @@ import InputNumber from '@/components/inputNumber.vue'
 在<template> 中使用组件
 <input-number></input-number>
 
-#参数说明
+# 参数说明
 
 ### 可接收的参数
 | 参数名称        | 说明           | 类型 | 默认值  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----:| -----:|
 | value      | 传入输入框的值 | Number | 1 |
 | step      | 计数器步长 | Number | 1 |
 | max      | 允许设置的最大值 | Number |   99 |
