@@ -2,6 +2,12 @@
 
 > A Vue InputNumber components
 
+# 运行demo
+npm install
+
+npm run dev
+
+
 ## How To Use
 
 将src/components/inputNumber.vue 拷贝到你的项目的组件内(样式什么的自己调整就好)
